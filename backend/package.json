@@ -1,0 +1,22 @@
+{
+  "name": "Cabedal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "/routes/admin",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "connect-flash": "^0.1.1",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "mongoose": "^5.7.13",
+    "nodemon": "^2.0.1",
+    "router": "^1.3.3"
+  }
+}
